@@ -17,7 +17,7 @@ import Image13 from '../assets/lasstep.jpg'
 
 const Body = () => {
   return (
-    <div className='bg-white mt-4 mx-[2rem] text-black'>
+    <div className='bg-white mt-4 mx-[1rem] text-black'>
       <div className='flex flex-col sm:flex-row'>
         {/* Column 1: Text */}
         <div className='w-full sm:w-1/2 p-4'>
