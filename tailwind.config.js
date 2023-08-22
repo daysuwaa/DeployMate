@@ -6,7 +6,7 @@ module.exports = {
     extend: {
       fontFamily: {
         customFont: ['Bacasime Antique', 'serif'],
-        
+        customFont2: ['Oswald', 'sans-serif']
       },
     },
   },
