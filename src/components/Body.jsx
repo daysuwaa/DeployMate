@@ -218,6 +218,7 @@ const Body = () => {
           <img src={Image13} alt='step3' className='max-w-full h-auto' />
         </div>
       </div>
+      
     </div>
   );
 };
