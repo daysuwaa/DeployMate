@@ -156,7 +156,7 @@ const Body = () => {
           <h2 className='font-bold text-xl pb-2' >For deploying static websites on Github:</h2>
          <h2 className='font-bold text-xl font-customFont2'>STEP 1: </h2>
           <p className='font-light'>Go to settings tab in the repository, scroll down to <span className='font-semibold text-green-500'>Pages </span> <br></br>
-          Note: make sure your project has an `inex.html` file
+          Note: make sure your project has an `index.html` file
           </p>
 
         </div>
