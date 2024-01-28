@@ -191,8 +191,8 @@ const Body = () => {
           <h2 className="font-bold text-xl font-customFont2">STEP 2: </h2>
           <p className="font-light">
             Select branch as{" "}
-            <span className="font-semibold text-blue-500">main</span>, beside
-            branch, select folder as{" "}
+            <span className="font-semibold text-blue-500">main/ gh-pages</span>,
+            beside branch, select folder as{" "}
             <span className="font-semibold text-blue-500">
               /(root). Then click Save or Save changes
             </span>{" "}
